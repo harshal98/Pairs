@@ -1,4 +1,5 @@
 [
+    "ONEUSDT",
     "CHRUSDT",
     "SSVUSDT",
     "ALTUSDT",
