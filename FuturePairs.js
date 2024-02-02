@@ -1,4 +1,8 @@
 [
+     "LITUSDT",
+    "LUNAUSDT",
+    "JUPUSDT",
+    "PHBUSDT",
     "ONEUSDT",
     "CHRUSDT",
     "SSVUSDT",
