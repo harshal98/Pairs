@@ -1,4 +1,5 @@
 [
+     "PYTHUSDT",
      "LITUSDT",
     "LUNAUSDT",
     "JUPUSDT",
