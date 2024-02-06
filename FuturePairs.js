@@ -1,4 +1,5 @@
 [
+     "XEMUSDT",
      "PYTHUSDT",
      "LITUSDT",
     "LUNAUSDT",
