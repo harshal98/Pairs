@@ -1,4 +1,9 @@
 [
+     "KAVAUSDT",
+      "WOOUSDT",
+      "AIUSDT",
+      "RLCUSDT",
+      "RADUSDT",
      "XEMUSDT",
      "PYTHUSDT",
      "LITUSDT",
