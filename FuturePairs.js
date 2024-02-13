@@ -1,4 +1,6 @@
 [
+     "RONINUSDT",
+     "DYMUSDT",
      "SUPERUSDT",
      "GALUSDT",
      "KAVAUSDT",
