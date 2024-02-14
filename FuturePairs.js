@@ -1,4 +1,6 @@
 [
+     "EGLDUSDT",
+     "SPELLUSDT",
      "RONINUSDT",
      "DYMUSDT",
      "SUPERUSDT",
