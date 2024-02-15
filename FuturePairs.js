@@ -1,6 +1,6 @@
 [
      "RVNUSDT",
-     "FXSUSDT".
+     "FXSUSDT",
      "EGLDUSDT",
      "SPELLUSDT",
      "RONINUSDT",
