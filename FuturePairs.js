@@ -1,4 +1,5 @@
 [
+     "CKBUSDT",
      "RVNUSDT",
      "FXSUSDT",
      "EGLDUSDT",
