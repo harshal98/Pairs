@@ -1,4 +1,6 @@
 [
+     "ZENUSDT",
+     "ARUSDT",
      "VETUSDT",
      "ALGOUSDT",
      "THETAUSDT",
