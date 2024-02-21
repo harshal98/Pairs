@@ -1,4 +1,8 @@
 [
+     "VETUSDT",
+     "ALGOUSDT",
+     "THETAUSDT",
+     "HIGHUSDT",
      "CKBUSDT",
      "RVNUSDT",
      "FXSUSDT",
