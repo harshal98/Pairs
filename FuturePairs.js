@@ -1,4 +1,9 @@
 [
+     "ZECUSDT",
+     "COTIUSDT",
+     "DARUSDT",
+      "AGIXUSDT",
+      "LSKUSDT",
      "ZENUSDT",
      "ARUSDT",
      "VETUSDT",
