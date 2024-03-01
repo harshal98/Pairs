@@ -1,4 +1,5 @@
 [
+     "PIXELUSDT",
      "ZECUSDT",
      "COTIUSDT",
      "DARUSDT",
