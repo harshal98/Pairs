@@ -1,4 +1,7 @@
 [
+      "OMGUSDT",
+     "ILVUSDT",
+      "STEEMUSDT",
      "PIXELUSDT",
      "ZECUSDT",
      "COTIUSDT",
