@@ -1,4 +1,5 @@
 [
+       "LOOMUSDT",
       "OMGUSDT",
      "ILVUSDT",
       "STEEMUSDT",
