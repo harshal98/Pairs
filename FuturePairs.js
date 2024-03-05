@@ -1,6 +1,6 @@
 [
         "XECUSDT",
-        "WASPUSDT",
+        "WAXPUSDT",
        "LOOMUSDT",
       "OMGUSDT",
      "ILVUSDT",
