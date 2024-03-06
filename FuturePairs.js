@@ -1,4 +1,5 @@
 [
+           "WIFUSDT",
         "XECUSDT",
         "WAXPUSDT",
        "LOOMUSDT",
