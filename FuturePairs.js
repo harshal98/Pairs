@@ -1,4 +1,5 @@
 [
+           "BICOUSDT",
            "WIFUSDT",
         "XECUSDT",
         "WAXPUSDT",
