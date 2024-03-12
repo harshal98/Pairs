@@ -1,4 +1,6 @@
 [
+   "OMSUSDT",
+   "WAVESUSDT",
   "GLMUSDT",
   "1000SATSUSDT",
 "1INCHUSDT",
