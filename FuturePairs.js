@@ -1,5 +1,5 @@
 [
-   "OMSUSDT",
+   "OMUSDT",
    "WAVESUSDT",
   "GLMUSDT",
   "1000SATSUSDT",
