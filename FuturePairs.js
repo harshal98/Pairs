@@ -1,4 +1,6 @@
 [
+   "METISUSDT",
+   "DASHUSDT",
    "OMUSDT",
    "WAVESUSDT",
   "GLMUSDT",
