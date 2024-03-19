@@ -1,4 +1,6 @@
 [
+   "BOMEUSDT",
+   "AEVOUSDT",
    "METISUSDT",
    "DASHUSDT",
    "OMUSDT",
