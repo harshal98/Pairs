@@ -1,4 +1,6 @@
 [
+    "STGUSDT",
+    "ATAUSDT",
     "VANRYUSDT",
    "BOMEUSDT",
    "AEVOUSDT",
