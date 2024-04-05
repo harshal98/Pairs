@@ -1,4 +1,5 @@
 [
+   "NKNUSDT",
   "ONTUSDT",
   "WUSDT","ENAUSDT",
   "BONDUSDT",
