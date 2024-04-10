@@ -64,7 +64,6 @@
    "CYBERUSDT",
    "DARUSDT",
    "DASHUSDT",
-   "DEFIUSDT",
    "DENTUSDT",
    "DODOUSDT",
    "DOGEUSDT",
