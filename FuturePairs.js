@@ -224,7 +224,6 @@
     "USTCUSDT",
     "VANRYUSDT",
     "VETUSDT",
-    "WAVESUSDT",
     "WAXPUSDT",
     "WIFUSDT",
     "WLDUSDT",
@@ -232,7 +231,7 @@
     "WUSDT",
     "XAIUSDT",
     "XECUSDT",
-    "XEMUSDT",
+  
     "XLMUSDT",
     "XRPUSDT",
     "XTZUSDT",
