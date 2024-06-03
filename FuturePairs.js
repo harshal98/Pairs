@@ -155,7 +155,6 @@
     "NTRNUSDT",
     "OCEANUSDT",
     "OGNUSDT",
-    "OMGUSDT",
     "OMNIUSDT",
     "OMUSDT",
     "ONEUSDT",
