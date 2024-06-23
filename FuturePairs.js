@@ -1,4 +1,5 @@
 [
+    "IOUSDT",
     "BONKUSDT",
     "1000SATSUSDT",
     "1INCHUSDT",
