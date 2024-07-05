@@ -8,7 +8,7 @@
     "ACHUSDT",
     "ADAUSDT",
     "AEVOUSDT",
-    "AGIXUSDT",
+   
     "AGLDUSDT",
     "AIUSDT",
     "ALGOUSDT",
@@ -154,7 +154,7 @@
     "NMRUSDT",
     "NOTUSDT",
     "NTRNUSDT",
-    "OCEANUSDT",
+
     "OGNUSDT",
     "OMNIUSDT",
     "OMUSDT",
