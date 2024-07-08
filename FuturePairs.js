@@ -48,7 +48,7 @@
     "BNTUSDT",
     "BNXUSDT",
     "BOMEUSDT",
-    "BONDUSDT",
+   
     "BTCUSDT",
     "C98USDT",
     "CAKEUSDT",
