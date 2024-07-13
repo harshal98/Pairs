@@ -49,7 +49,6 @@
     "BNXUSDT",
     "BOMEUSDT",
    
-    "BTCUSDT",
     "C98USDT",
     "CAKEUSDT",
     "CELOUSDT",
@@ -81,7 +80,7 @@
     "EOSUSDT",
     "ETCUSDT",
     "ETHFIUSDT",
-    "ETHUSDT",
+  
     "FETUSDT",
     "FILUSDT",
     "FLMUSDT",
@@ -132,7 +131,7 @@
     "LQTYUSDT",
     "LRCUSDT",
     "LSKUSDT",
-    "LTCUSDT",
+  
     "LUNAUSDT",
     "LUNCUSDT",
     "MAGICUSDT",
