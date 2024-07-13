@@ -194,7 +194,7 @@
     "SHIBUSDT",
     "SKLUSDT",
     "SNXUSDT",
-    "SOLUSDT",
+
     "SPELLUSDT",
     "SSVUSDT",
     "STEEMUSDT",
