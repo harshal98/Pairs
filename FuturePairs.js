@@ -233,7 +233,7 @@
   
     "XLMUSDT",
     "XRPUSDT",
-    "XTZUSDT",
+  
     "XVGUSDT",
     "XVSUSDT",
     "YFIUSDT",
