@@ -214,7 +214,7 @@
     "TNSRUSDT",
     "TRBUSDT",
     "TRUUSDT",
-    "TRXUSDT",
+  
     "TUSDT",
     "TWTUSDT",
     "UMAUSDT",
