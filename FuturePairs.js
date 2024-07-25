@@ -181,7 +181,7 @@
     "REZUSDT",
     "RIFUSDT",
     "RLCUSDT",
-    "RNDRUSDT",
+  
     "RONINUSDT",
     "ROSEUSDT",
     "RSRUSDT",
