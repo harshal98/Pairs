@@ -90,7 +90,7 @@
     "FTMUSDT",
     "FXSUSDT",
     "GALAUSDT",
-    "GALUSDT",
+  
     "GASUSDT",
     "GLMUSDT",
     "GMTUSDT",
