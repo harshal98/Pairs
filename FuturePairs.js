@@ -1,4 +1,6 @@
 [
+    "LISTAUSDT",
+    "ZROUSDT",
     "IOUSDT",
     "BONKUSDT",
     "1000SATSUSDT",
