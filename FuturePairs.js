@@ -1,4 +1,7 @@
 [
+    "TONUSDT",
+    "RAREUSDT",
+    "BANANAUSDT",
     "LISTAUSDT",
     "ZROUSDT",
     "IOUSDT",
@@ -88,7 +91,7 @@
     "FLMUSDT",
     "FLOKIUSDT",
     "FLOWUSDT",
-    "FRONTUSDT",
+ 
     "FTMUSDT",
     "FXSUSDT",
     "GALAUSDT",
@@ -178,7 +181,7 @@
     "QNTUSDT",
     "QTUMUSDT",
     "RDNTUSDT",
-    "REEFUSDT",
+  
     "RENUSDT",
     "REZUSDT",
     "RIFUSDT",
